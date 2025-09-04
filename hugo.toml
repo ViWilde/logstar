@@ -72,7 +72,7 @@ theme = 're-terminal'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "re-Terminal"
 
     [languages.en.params]
       menuMore = "Show more"
