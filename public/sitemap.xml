@@ -11,10 +11,10 @@
     <loc>http://localhost:1313/logstar/tags/prequel/</loc>
     <lastmod>2350-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/logstar/tags/</loc>
+    <loc>http://localhost:1313/logstar/</loc>
     <lastmod>2350-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/logstar/</loc>
+    <loc>http://localhost:1313/logstar/tags/</loc>
     <lastmod>2350-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/logstar/categories/</loc>

@@ -1,7 +1,7 @@
 baseURL = 'https://vivianwilde.github.io/logstar/'
 languageCode = 'en-us'
 title = "Pilot's Log: Midas Touch"
-theme = 're-terminal'
+theme = 'terminal'
 
 [markup.highlight]
   noClasses = false
