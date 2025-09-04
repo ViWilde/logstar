@@ -9,7 +9,7 @@ theme = 'terminal'
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "notes" # Should be set to notes to make the listing public, this is a hack
+  contentTypeName = "boops" # Should be set to notes to make the listing public. This is a hack to avoid listing posts, so that only the ones I explicitly link to are available.
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
