@@ -1,7 +1,7 @@
 baseURL = 'https://vivianwilde.github.io/logstar/'
 languageCode = 'en-us'
 title = "Pilot's Log: Midas Touch"
-theme = 'terminal'
+theme = 're-terminal'
 
 [markup.highlight]
   noClasses = false
@@ -87,7 +87,7 @@ theme = 'terminal'
 
       [languages.en.params.logo]
         logoText = "Pilot's Log"
-        logoHomeLink = "/"
+        logoHomeLink = "/logstar"
 
       # [languages.en.menu]
       #   [[languages.en.menu.main]]
