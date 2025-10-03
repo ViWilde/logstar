@@ -4,44 +4,76 @@ date: 2350-09-08
 tags: [diagnostic]
 ---
 LODESTAR CORPORATE SERVICE CRAFT /// THE MIDAS TOUCH
+
 CLASS: LODESTAR COLONY CORE MDL 1340
+
 YEARS OF SERVICE: 31 SOLAR /// CAPTAIN: S MCGEE
+
 WARNING /// CRAFT NOT EQUIPPED FOR ATMOSPHERIC OPERATION
 
-**OVERALL CONDITION - GOOD**
-NOTE from Esper: This is a lie, overall condition is, in layman's terms, /fucked/
+**OVERALL CONDITION - POOR**
 
+
+* Analysis <2350-10-03 Fri>
+- We have navigation, subspace comms, and the reactors are seemingly alive
+- Food storage is intact but possibly damaged
+- Oyxgen, water, fuel are seemingly online
+- Computer is partially online
+- Shuttles are somewhere, hopefully intact
 * BRIDGE
-CONTROL PANEL: Online
+CONTROL PANEL: Damaged
+
 NAVIGATION: Online
-ASTROGATION: destroyed
+
+ASTROGATION: Destroyed
+
 SUBSPACE COMMS: Online
+
 STANDARD COMMS: Destroyed
-CAMERAS: All Online
+
+CAMERAS: Half online
 
 * ENGINEERING
-STARBOARD ENGINE: Online, damaged
-AFT ENGINE: Online, damaged
-PORT ENGINE: Online
-J-DRIVE: WARNING 2/7, 1/2 Tank
+STARBOARD ENGINE: Damaged
+
+AFT ENGINE: Damaged
+
+PORT ENGINE: Damaged
+
+J-DRIVE: Damaged
+
 RUDDER: Online
-REACTOR: WARNING
+
+REACTOR: Online
+
 AUXILARY REACTOR: Online
 
 * LIFE SUPPORT
-CRYO PODS: 2000/2000 Online, Damage
+CRYO PODS: All Ejected, moderate damage
+
 CRYO FUEL: 1/8 Tank
-FOOD (STORAGE): 1.5 Trips for Crew
-HULL: Good Condition, 100/100 HP
-HYDROPONICS: Damaged
+
+FOOD (STORAGE): 0.25 Trips for crew remaining
+
+HULL: Heavily Damaged
+
+HYDROPONICS: Destroyed
+
 OXYGEN FILTERS: Online
+
 WATER FILTERS: Online
+
 SABATIER CHAMBER: Online
 
 * OTHER SYSTEMS
-COMPUTER CORE: AI and Databanks Online
-GRAVITY: offline
-ESCAPE PODS: A 3, B 3
-SHUTTLES: 3/3
+COMPUTER CORE:  Databanks damaged, AI destroyed
+
+GRAVITY: damaged
+
+ESCAPE PODS: ejected
+
+SHUTTLES: 0/3
+
 ATMOSPHERIC CONFIG: N/A
-OTL: Online
+
+OTL: Ejected
