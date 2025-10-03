@@ -1,0 +1,10 @@
+---
+title: General Info
+draft: true
+---
+
+
+* Piloting A Ship
+- During jumps: These last ~24-48 hours. We're operating in subspace (weird grey ethereal space). Dealing with turbulence, micro-adjustments, staying precisely on course, etc. Space is distorted, immense mental pressure, so piloting in those circumstances is common.
+- Shuttles: On-ground transport, designed for away teams, but also useful for getting around, or for getting to a nearby station to request rescue.
+- Subspace messages: burst of dangerous energy, to send FTL messages.
