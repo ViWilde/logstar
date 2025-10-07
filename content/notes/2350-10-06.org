@@ -1,0 +1,143 @@
+---
+title: "Terra Incognita"
+date: 2350-10-06T21:32:33-04:00
+draft: false
+---
+* Short-term Goals
+- Get to the ship
+- Establish shelter
+- Gather supplies
+- Pick up allies
+Moving towards the ship will probably be helpful for allies,
+** Longer-term
+- Get to a shuttle so we can navigate
+- Establish a base of operations at the ship
+- Food and water sources
+* Session Notes
+- Evelyn is climbing, gets stuck
+- The grass is turqoise, and the sky is pink
+- We got Evelyn back up!
+- There's a mountain, with smoke rising from the side of it; our ship.
+- Radio: Static interference.
+- Consolus is treating Digby for medical burns
+** Lay of the land (Ion Hills)
+- Lots of things I missed
+- Geodes with purple rocks
+- Naturally-stacked rock formations
+- The ship landed in the mountains. This does not bode well.
+- Atmosphere is low oxygen (high altitude)
+** Keeping watch
+- High ground (above the purple sparkles)
+- Jury rig a sled to carry our wounded
+- Evelyn finds a hot spring, with alien fish swimming in it! Take that, Enrico Fermi!
+- We found some fruit! Strangely warm and glowing - provides heat, light for 24 hours, but potentially does burn damage?
+- "This fruit is very mysterious and interesting". I need to steal that for my Linkedin Bio.
+- We have lots of grass - Martin ate some of it and hasn't died yet.
+- Martin found a signal thing - amplifier, or some kind of emergency sound-emitter? Used to keep wildlife away.
+** Hill expedition
+- We went up to the hills, trying to debug our radio
+- Ion storms are messing with our radio, signals, and possibly also with electronics.
+- The pod console was on the fritz
+- It's caused by the purple sparkle fog
+- Moonlight: Three moons
+- The lodestar world has 3 moons, I'm now worrying this is just a Genshin impact
+- One of the moons has water.
+- Different, moving sparkles in the distance (within the hills) - an organism (heat signature)
+- Shuttles: Are somewhere. We'll learn soon.
+- The ship can't quite connect to the pods - suggests more
+- Lots of pods in the fog - Ava, Jacob, military
+- A pod fell into the ocean. Oh dear. Near the coast.
+- A pod somewhere in the rocky area
+- Two signals: One from the ship, one from the ocean
+- Ship is bad, Rick is locked/barricaded in the bridge
+- Captain is alive(???)
+- Ship: We need powercells, hull plating, weapons.
+- Planet: Day-night cycle is 18 hours
+- Gravity is weird, Rick cut out before he could elaborate
+- Slightly lighter here (i.e $g < 9.81$)
+- Shuttles: We've seen a few of them - one is in a cave, the other is atop a high point covered in snow - a mountaintop, and the third is a dense foliage?
+- The foliage is suspicious - (1) we never flew over the jungle and (2) it /landed/ rather than crashing - someone or something piloted it. Something sentient? Like the force that pulled us out of jump and to this planet?
+- What's in the jungle that drew our ship there? We should explore there when we have more resources
+** Encounter - Smoky Nightcrawler
+- Strange nightcrawler, with smoke emanating from the top of its head(?)
+- About 10ft tall
+- It has a weird beak/proboscis, drilling into the ground. Sucks up something purple. Not sparkly though.
+- It's not actively hostile - not advancing menacingly, just ambling and coming towards sources of noise.
+- Martin tries to pet it. Oh dear.
+- Weirdly spongy texture
+- Martin's hand tenses, and the creature reacts poorly
+** Wildlife
+- Through the rolling hills
+- No hand-creatures (nightcrawlers)
+- Balls, with a similar proboscis. Three suction-cup legs, bouncing strangely
+- Hermit crabs; shells with purple crystals
+- Nothing hostile so far
+- The purple crystals spark out electricity. Power source??
+- The energy source is static electricity; the one who zapped Martin has weaker energy. It's a sting, rather than a viable power source.
+- They crawl into the fissures, there's an underground tunnel system. Possibly filled with purple.
+- Maybe there's a purple energy source underground
+- Electroplankton?
+- The doctor's speculation: The crabs come up to feed on flora, and shelter underground. The sponge-beasts feed on the crabs (?).
+- We found some of the science pets! Starfield the cat, and Laika the dog.
+*** You would not believe your eyes
+- Fireflies!
+- No legs, twice as many wings
+- Nila tried to hold one.
+- The firefly is radio-ing?
+- The firefly energy makes the radio click, and also strengthens the signal (when we bring it closer) - still gibberish
+- Firefly signal: "kjhafs SDFGhjklawetklhj ay"
+- The "bulb" on the firefly sends out radio signals.
+- Also a bit of infrared
+- The visual patterns "sync" with the radio patterns
+- Firefly radio short range, weak
+- Something really fast - a silvery white shape - eats the firefly
+** Point of Interest
+- Another hot spring - a gathering ground for crabs?
+- There's a rock floating in the air?
+- The floating rock is unsettling (forced a resolve check)
+- Is it maglev? Probably no.
+- We have no idea what's up with it
+- We picked up 2 crabs - potential food, potential taser weapons.
+- A patch of orange flowers! With 8 petals, and a yellow center. And two tendril/tentacle orange outshoots
+- Final shot: Something bubbling and moving in the hot spring
+
+* Bestiary
+** Hills
+- Evelyn finds a hot spring, with alien fish swimming in it! Take that, Enrico Fermi!
+- Different, moving purple sparkles in the distance (within the hills) - an organism (has a heat signature)
+- Balls, with a similar proboscis. Three suction-cup legs, bouncing strangely
+- Maybe there's a purple energy source underground - electroplankton?
+- The doctor's speculation: The crabs come up to feed on flora, and shelter underground. The sponge-beasts feed on the crabs (?).
+- Something really fast - a silvery white shape - that eats insects
+- Final shot: Something bubbling and moving in the hot spring
+** Crabs
+- Hermit crabs; shells with purple crystals
+- Crystals - static electricity field? Small electric sting
+- They crawl into the fissures, there's an underground tunnel system. Possibly filled with purple.
+- They congregate around hot springs
+- Potential weapons
+** Nightcrawler
+- Strange nightcrawler, with smoke emanating from the top of its head(?)
+- About 10ft tall
+- It has a weird beak/proboscis, drilling into the ground. Sucks up something purple. Not sparkly though.
+- It's not actively hostile - not advancing menacingly, just ambling and coming towards sources of noise.
+- Martin tries to pet it. Oh dear.
+- Weirdly spongy texture
+- Martin's hand tenses, and the creature reacts poorly
+** You Would Not Believe Your Eyes
+- Fireflies!
+- No legs, twice as many wings
+- Nila tried to hold one.
+- The firefly is radio-ing?
+- The firefly energy makes the radio click, and also strengthens the signal (when we bring it closer) - still gibberish
+- Firefly signal: "kjhafs SDFGhjklawetklhj ay"
+- The "bulb" on the firefly sends out radio signals.
+- Also a bit of infrared
+- The visual patterns "sync" with the radio patterns
+- Firefly radio short range, weak
+* Scavenging
+** Hills
+- We found some fruit! Strangely warm and glowing - provides heat, light for 24 hours, but potentially does burn damage?
+- We have lots of grass - Martin ate some of it and hasn't died yet.
+- Hot springs
+- A patch of orange flowers! With 8 petals, and a yellow center. And two tendril/tentacle orange outshoots
