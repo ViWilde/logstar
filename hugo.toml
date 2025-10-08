@@ -1,4 +1,4 @@
-baseURL = 'https://vivianwilde.github.io/logstar/'
+baseURL = 'https://viwilde.github.io/logstar/'
 languageCode = 'en-us'
 title = "Pilot's Log: Midas Touch"
 theme = 'terminal'
