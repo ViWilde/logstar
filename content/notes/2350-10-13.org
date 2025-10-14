@@ -90,3 +90,29 @@ draft: false
 - Visible from a distance, but up close hard to see - invisibility?
 - Plan: Jury-rig some speakers, use the noisemaker, and get guns from the barracks.
 - Stargazing: Tentacles hovering close to the throat of Consolus. A weird 10-foot long, human-thickness worm-creature with tentacles that attacks. Somewhat cold-resistant, high AC head and tentacles.
+* Bestiary
+** Predators Near the Ship
+- The creatures don't like sound. Martin's whistle?
+- They're fast and sneaky, don't split the party
+- Visible from a distance, but up close hard to see - invisibility?
+- Plan: Jury-rig some speakers, use the noisemaker, and get guns from the barracks.
+- Stargazing: Tentacles hovering close to the throat of Consolus. A weird 10-foot long, human-thickness worm-creature with tentacles that attacks. Somewhat cold-resistant, high AC head and tentacles.
+** Aquamarine Slimes
+- Highly acidic
+- Don't corrode the grass though
+- Slow, seemingly non-hostile
+- They have a heat signature at least, but otherwise hard to track (camouflage with the grass)
+** Puffers
+- Pufferfish, with tiny fins/wings
+- The pufferfish seem to be communicating - call and response?
+- The geysers die down, the pufferfish take a breath, and begin floating on the wind (like balloons)
+** Dr. Worm
+- Tried to eat our doctor.
+- About the thickness of a human, 10ft long, 4 tentacles, and a mouth that bites
+- Somewhat cold-resistant, high AC on the head and tentacles.
+- Quite stealthy
+- Found in caves, as far as we can tell
+* Scavenging
+- So we have potential energy sources: Purple substance, radioactive heat source/geothermals
+- Some kind of purple moss exists
+- The turqoise grass is corrosion resistant (corollary: indigestible)
