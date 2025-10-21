@@ -1,0 +1,131 @@
+---
+title: "Lingual Lures"
+date: 2025-10-20T21:40:30-04:00
+draft: false
+---
+* Rest
+- Martin has a strange dream involving a claw machine (it's only function is to reach...)
+- Martin has the stew, it's good and energizing
+- We have a long-lasting sunrise
+** Surprise Messages
+- Jen Kaneda: Avoid the fog, Colonel's gone insane and shot Tiana (cryotech)
+* Armory
+- Heading out: Static is weaker, we can hear Oak.
+- Oak: "Things are still outside, engine parts have been lost for starboard, but others are fixable"
+- Plants(?): Wriggling, dotting the side.
+- Lots of creatures do electric damage including these guys.
+- Plants: The pods inside them can potentially be shock weapons. In particular we could make a shock-whip by chaining them together (i.e they're additive)
+- We get 21 of them, but Soup exploded
+- We've spotted the armory - a lodestar module, purple smoke rising around it.
+- Lots of things are electric. Is something up with the electromagnetics on this planet.
+- Some small things (~1ft high, heavy) have entered the pod.
+- We fired the noisemaker, it triggered a bunch of skittering and whistling
+- The sounds were clanking - metal feet, or shoes? Or hooves?
+** Christmas Came Early
+- Sonic(*) shotgun: Blunt damage, knockback (3d6 blunt) (-1 ammo)
+- Mental damage: Psi whistle. (1d4 mental, loud sound) (-2 ammo)
+- Laser/heat gun (Soup)
+- Powersuit (Digby)
+- 1d6 six-shooter (x4)
+** Shopping List (Courtesy of Rick)
+*** Priority
+- Engine parts
+- Reactor engineering, to stabilise
+- Hull material
+- Power
+*** Eventual
+- Restore cryopods
+- Astrogation
+- J-drive
+- Hydroponics
+** Cave
+- There's a cave, there are purple crystals generating static and interfering with the radio
+- We enter
+- Weird floating black rocks
+- Purple fumes, electrical energy
+- Little blue legged creatures: Pretty Pikminish, also a little Stardew nature spirit (7/10 on how Pikminish they are)
+- Solid blue sculpture legs.
+- Their heads: Blue sparkling strands. A little like toy soldiers.
+- There's a red one and a blue one.
+- The creatures seem oddly rigid - stony.
+- They hug the crystal, and it dims, and they turn purple.
+- We see a face(?) in one of the crystals - 3 eyed, vaguely humanoid skull. Fangs
+- Three humanoid skulls, with lots of arms (like centipede legs)
+- It jumped out of the crystal, and now has physical form. Targets - head, body, weird throatsac, arms.
+- It has these weird gurgling sacs/tumors
+- The creature briefly ingested Evelyn, she had some strange dreams (reliving her thesis defense) - as far as Consolus could tell from afterwards, it's just trauma/shock.
+- What is up with this thing?
+- The bile of the creature is weirdly like j-drive fuel. WHAT?
+- The crystal is basically like the radio firefly, the creature bile/blood is the weird part - lets it mimic jumping via teleports.
+
+* Ship: Approach
+- Sleep is for the weak, we stim up and Martin gives us a motivational speech.
+- There's a forest-y region on the outskirts of the mountains
+- We see three reddish eyes, skittish, staring back.
+- Rick's heard that Jin got shot, Tiana's patching them up.
+- We're missing the Frosts
+- Ship cameras: Don't catch anything, but we are making good time.
+** Ghosts
+- There's a weird creature, shimmering blue, eating another deer-like blue creature.
+- The creature looks through us, chilling our nerves (triggering resolve check)
+- The creature distorts a little. Disconnected, like TV static
+- The whole forest is teeming with these spectral things
+- It's various forms, all different creatures
+- Like a laser light show - fog aura around them. Some are blue, others shadowy black (the black ones are more distorted, unsettling)
+- The ghost has a weird shadowy sword, and seems to notice Evelyn (when she fails resolve). The shadowy face looks like me (Esper) when it stabs her
+- The things had no heat signature
+- We see 4 creatures attacking something - a humanoid form?
+- We hear gunshots? Distorted
+- Blobs of black smoke, one humanoid, four creatures. The humanoid is fighting the creature.
+- Are we being ambushed?
+
+** Dead Men Tell Some Tales
+- Rick claims he opened a door for us, but it remains closed
+- Rick definitely seems legitimately scared, and like he's trying to help us.
+- But his mess-up is too suspicious to be accidental
+- There are black stones cutting through the ship.
+- Wires and tubes sticking out
+- We just about escaped the weird creatures.
+- We got through the ship, and discovered something is weird.
+- Rick isn't interacting with things - he says he opened a door, or moved to a room, but he didn't - the door remains closed, the room remains empty.
+- But whatever is piloting Rick has access to his mind - his personality, his knowledge.
+- Martin restored the bridge cameras. Rick is dead on the bridge, with a weird black stone stuck through him.
+- The corpse isn't moving, but the radio is flashing.
+- We need some way to verify identities. We need a fucking cryptosystem.
+- Esper needs to investigate whether the Shipmind is compromised. The black stone that impaled Rick has also impaled other parts of the ship. She's already guilt-wracked, now she's paranoid too.
+* Bestiary
+** Pikmin??
+- Little blue legged creatures: Pretty Pikminish, also a little Stardew nature spirit (7/10 on how Pikminish they are)
+- Solid blue sculpture legs.
+- Their heads: Blue sparkling strands. A little like toy soldiers.
+- There's a red one and a blue one.
+- The creatures seem oddly rigid - stony.
+- They hug the crystal, and it dims, and they turn purple.
+** Crystal-Hopper
+- We see a face(?) in one of the crystals - 3 eyed, vaguely humanoid skull. Fangs
+- Three humanoid skulls, with lots of arms (like centipede legs)
+- It jumped out of the crystal, and now has physical form. Targets - head, body, weird throatsac, arms.
+- It has these weird gurgling sacs/tumors
+- The creature briefly ingested Evelyn, she had some strange dreams (reliving her thesis defense) - as far as Consolus could tell from afterwards, it's just trauma/shock.
+- What is up with this thing?
+- The bile of the creature is weirdly like j-drive fuel. WHAT?
+- The crystal is basically like the radio firefly, the creature bile/blood is the weird part - lets it mimic jumping via teleports.
+** Spectral Mimics
+- There's a weird creature, shimmering blue, eating another deer-like blue creature.
+- The creature looks through us, chilling our nerves (triggering resolve check)
+- The creature distorts a little. Disconnected, like TV static
+- The whole forest is teeming with these spectral things
+- It's various forms, all different creatures
+- Like a laser light show - fog aura around them. Some are blue, others shadowy black (the black ones are more distorted, unsettling)
+- The ghost has a weird shadowy sword, and seems to notice Evelyn (when she fails resolve). The shadowy face looks like me (Esper) when it stabs her
+- The things had no heat signature
+- We see 4 creatures attacking something - a humanoid form (all of these things are black smoky spectres)
+- We hear gunshots? Distorted
+- Blobs of black smoke, one humanoid, four creatures. The humanoid is fighting the creature.
+- It's hard to resist the urge to look.
+- Is this bait? An ambush?
+
+* Scavenging
+- Wriggling Wildflowers :: Do electric damage on handling. The pods inside them can potentially be shock weapons/power sources. In particular we can chain pods together for a more powerful charge. Found in the Ion Hills (near the foggy region)
+- Floating Rocks :: Possibly connected to what we saw on the ship (note to Ryan: Don't share that in the discord channel, Sam probably wants the ship stuff to be a bit more of a surprise). Found in the Ion Hills, including in the cave system
+- Fissures  :: Some kind of energy source in fissures, within the cave. Martin nearly got caught in a cloud, took some damage, but they could be a good longer-term energy source.

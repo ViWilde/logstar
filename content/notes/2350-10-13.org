@@ -94,7 +94,7 @@ draft: false
 ** Predators Near the Ship
 - The creatures don't like sound. Martin's whistle?
 - They're fast and sneaky, don't split the party
-- Visible from a distance, but up close hard to see - invisibility?
+- Visible from a distance, but up close hard to see - invisibility? Perhaps an afterimage
 - Plan: Jury-rig some speakers, use the noisemaker, and get guns from the barracks.
 - Stargazing: Tentacles hovering close to the throat of Consolus. A weird 10-foot long, human-thickness worm-creature with tentacles that attacks. Somewhat cold-resistant, high AC head and tentacles.
 ** Aquamarine Slimes
