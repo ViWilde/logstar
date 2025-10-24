@@ -1,6 +1,6 @@
 ---
 title: "Ship Diagnostic"
-date: 2350-09-08
+date: 2530-09-08
 tags: [diagnostic]
 ---
 LODESTAR CORPORATE SERVICE CRAFT /// THE MIDAS TOUCH
@@ -14,7 +14,7 @@ WARNING /// CRAFT NOT EQUIPPED FOR ATMOSPHERIC OPERATION
 **OVERALL CONDITION - POOR**
 
 
-* Analysis <2350-10-03 Fri>
+* Analysis <2530-10-03 Fri>
 - We have navigation, subspace comms, and the reactors are seemingly alive
 - Food storage is intact but possibly damaged
 - Oyxgen, water, fuel are seemingly online

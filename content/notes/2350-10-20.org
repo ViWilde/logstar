@@ -1,6 +1,6 @@
 ---
 title: "Lingual Lures"
-date: 2025-10-20T21:40:30-04:00
+date: 2530-10-20T21:40:30-04:00
 draft: false
 ---
 * Rest
