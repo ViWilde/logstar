@@ -1,0 +1,128 @@
+---
+title: "Shadows on the Ship"
+date: 2530-10-27T21:40:30-04:00
+draft: false
+---
+* Pre-Session notes: To-Do list
+- Check ship security systems.
+- Write a warning message outside the ship.
+** DONE
+- Share the tracking doc in #shortwave-central
+- Inform radlanders of ocean pod
+- Investigate whether the Shipmind is compromised by the black stone. Answer: Kind of, but it's not /hostile/ just weird.
+- Maybe try an emergency broadcast, but it's probably too risky
+** Plan
+Esper's suggestion: We investigate as unobtrusively as we can - in particular, try to find a way to keep this thing from spreading, and a way to detect it so we don't get fooled again (cue non-diegetic guitar riff) by this sort of entity. If it gets suspicious, or dangerous, we bail out and do whatever salvage+damage control we can.
+* Ship
+- Rick is impaled on a black stone that cuts through the window
+- No sign of the captain's body
+- Rocks here: Black, glassy. Triangular, rather than spherical.
+- Rocks here: Prominent UV signatures.
+** Camera Trawl
+- Used shipmind to view camera footage of the crash-landing
+- From the outside: The starboard engine shoots off, the ship hangs right, crashes into the mountains.
+- The front gets impaled on the rock
+- Esper stares too deep into the abyss (trying to get eyes on the post-crash cockpit)
+- I see /myself/ stumbling out of the wreckage. And then I play it back, and there isn't. It didn't even look ghostly
+- So there's a doppel-me somewhere out there.
+- Other hypothesis: Alternate legs from the trousers of time? Parallel worlds?
+- I mark 1 stress, 1 IT
+** Investigation
+- Evelyn: The rocks resemble volcanic glass. However, the reflection is not volcanic glass, kaleidoscopic. More fodder for trousers of time
+- The resolve-check effect is similar to the floating black rock
+- Evelyn takes 4 IT and sees the captain in a cloud of mist.
+- An alternate Esper appeared - one who'd seen Consolus die in the crash, and who'd spoken with the captain
+- The alternate Esper felt strangely soft.
+- Martin... could you... I... are the rocks infecting the computer?
+- There are three red eyes staring into the ship from the outside.
+** Medbay
+- Some kind of creature drifting towards escape pods
+- It drifts/glides, it doesn't seem to see static things
+- It's shambling (elegantly, somehow) towards the escape pod
+- Consolus: "Something is stalking the halls. I've seen it."
+** Plan (Remaining/Abandoned Elements)
+- Fire an emergency broadcast?
+- Investigate computer room
+- Upgrade shipmind
+** Lower Decks
+- Making our way
+- We hear a strange sound from the rec room.
+- Blue spectres: Martin, Ellie
+- Martin's voice, from the rec room. And the voice of Ellie. Replaying scenes (or HtN-style AU scenes) from Wide-Awake?
+- Evelyn doesn't see whatever Martin saw.
+- The stairwell is slightly blocked by a black spine (obelisk)
+- Consolus sees something strange on touching the rock
+- Specifically, he sees himself die in the crash. So, an AU where the dice rolls worked out slightly differently?
+- Calling it now, trousers of time.
+- From the shipmind: There are specks in the air, clouding into vaguely humanoid shapes.
+- Black and blue
+- Esper jumps over the rock, avoiding it.
+- Black rocks are /growing/ out of the vents. This is bad.
+- The rocks emit smoke - black and blue, the kind that formed the ghosts.
+- The smoke/dust is "not not alive" (the bio-analysis gadget is confused)
+*** Martins
+- There's a crew of ~20 ghost Martins
+- Esper and Martin go past without acknowledging
+- It's something psychological, presumably - not physically touching, but interacting/observing. Because quantum.
+- Evelyn pokes a ghost, they all banshee-scream at Evelyn and dissipate. She takes mental damage. And stress. And IT.
+- We have weird false-memory AUs
+*** Reactor room
+- A blue ghost dragging another blue ghost
+- Black cloud ghosts working on the J-drive. "They're coming" (singsong+echo)
+- "Stay back" - ghost-Juniper
+- Martin touches the ghost-Esper's hands for a second (after being stabbed); he becomes ghostly, and sees ghost-Esper (and ghost-company) as real
+*** Subspace Message
+Pulled out of jump day early.
+Crashed unknown planet. Project Erebor.
+Send help.
+** Rick Statement
+I saw a crash
+"Those things in the woods"
+"I landed, damaged but fine. One of the engines"
+Oh. Rick lived out an alternate reality where different damage was sustained
+Jen got shot, Tiana's trying to ...
+
+Echoes from something that happened.. didn't happen
+Shadow puppets. Looks the same, but can't leave.
+"[Something] Can't leave..." and then wandered off. The transmitter briefly turned off.
+
+A loud rumbling and "FUCK!"
+
+We chose to leave the ship radio intact, so we can talk to Rick (and he can talk to us).
+
+We should let people know what happened
+** Ship Surveillance Tapes - Analysis
+- We pulled the data - camera records, etc. to analyse outside the ship
+- We see fragments from alternate realities - like several tapes have melded into one, and a random one gets selected.
+- Eg: Seeing Consolus die, and then rewinding to see Consolus escape.
+- It's mostly consistent with my prime reality (95%), with a few bits of interference from other realities.
+- It's not a single parallel universe - it's a few different mutually-inconsistent ones.
+- Hypothesis: The Lonely Mountain is unique in that there is only one copy of it even across multiple realities; and so in its vicinity you get the weird crossed wires of multiple overlapping timelines.
+** The Duke
+- Martin's datapad lights up. A moss-covered robot on the screen.
+- "I believe you know how to enter. When you are ready, come".
+- "Before this, you would have been mortified, but now I believe you can see the Duke."
+- "About getting you home. Getting us home."
+- "Just avoid her..."
+- "Keep an eye on the doctor. I fear for him"
+- "Beware her in the jungle and those who lurk. Do not trust those you see there"
+
+* Parallel Timelines Observed/Deduced/Speculated
+- Captain lived
+- Consolus died
+- Gretel died (?)
+- Esper didn't get out of the ship
+- Rick lived (?)
+* Message
+To everyone considering coming to the ship:
+
+Something very strange is happening near the crash site. Realities overlap somehow - we saw alternate versions of our crewmates, and glimpses of worlds where different crew lived or died.
+These realities intersect in strange ways (we nearly got into a fight with ourselves over a J-drive fuel cell), but seem to be /mostly/ separate.
+You might see alternate versions of your teammates, with conflicting memories. They tend to be squishy, in case that helps detect them.
+Careful around the volcanic glass (especially touching it or staring too closely); it'll show you visions of alternate realities.
+It's hard to deal with, and spooky as all hells, but it's reasonably safe as long as you're careful and forewarned.
+
+There are also strange blue and black spectres, that'll resemble our crewmates. Try not to interfere with them too much (our lawyer tried, and got knocked out for her troubles), since interacting with them can give you brain damage (OOC: Large amounts of mental damage)
+We think they're alternate versions of ourselves - you might see your own ghost-self. They can hurt you (just as you can hurt them), but you can also deal with them diplomatically.
+
+PS: We successfully fired off a subspace distress signal. Time will tell if that accomplished anything, but we can hope.

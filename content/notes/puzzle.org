@@ -1,0 +1,53 @@
+---
+title: "Puzzle-Solving"
+date: 2530-01-01T21:40:30-04:00
+draft: true
+---
+
+Puzzling out the planet, one step at a time
+* Character Justification
+Esper is, in character, not that smart, and not that curious - she's more concerned.
+
+She is, however, driven by wanderlust. This is suppressed by the crushing guilt and related emotions for now, but there is a way to play her that balances the crushing guilt and the wanderlust.
+So her "mystery-solving" is not "I need to solve the puzzle", but "I want to see more even if I don't understand it, because this is strange and wonderful".
+And the conspiracy board obssessive mystery solving can be an OOC Vivienne special.
+This is fine.
+
+Also she does have an emotional connection to Lodestar, if it turns out they're up to their necks in weird spooky stuff and hiding it, she might take an interest.
+
+* Threads
+** Colors
+- The color green can do all sorts of strange things in this place...
+- Westfall knows more.
+- TODO: Investigate colors on the IR/UV spectra; anything particularly striking?
+- Do symbols correspond to colors? The weird symbol Martin saw caused the purple moss to disintegrate. Some kind of create/destroy system?
+- Colors and symbols on the charsheet
+** Time Dilation
+- Something strange is up. An expedition that landed 30 years ago?
+- TODO I know this came up but I don't remember the context
+- This feels closely related to the trousers of time, somehow.
+** Trousers of Time
+- Evelyn: The rocks resemble volcanic glass. However, the reflection is not volcanic glass, kaleidoscopic. More fodder for trousers of time
+- Consolus sees something strange on touching the rock. Specifically, he sees himself die in the crash. So, an AU where the dice rolls worked out slightly differently?
+- We pulled the data - camera records, etc. to analyse outside the ship. We see fragments from alternate realities - like several tapes have melded into one, and a random one gets selected.
+- Why can the radio breach timelines? Is it the volcanic glass?
+
+** Former Expedition
+- A language that we must understand to progress past whatever gate they... made? found?
+- A language of colors and symbols?
+** Doppelgangers
+- The Hypno Flies look a bit like Earth’s fireflies, ‘cept they’re bigger, they're bluer, and they do all sorts of creepy things to your brain. A few minutes after looking into one of their lights, they had me hallucinating an old friend from Harkness 13 and a crew injury that never happened
+** Intelligent Design
+- J-drive fuel blood on the crystal-hopper
+- Cryo fuel in the desert Radices
+- Janus-Skulker symbols
+- In the middle of an irradiated desert, there’s a natural substance that can treat radiation. It’s almost like this whole planet is one giant puzzle.
+- Lots of radiation-y and electric life forms on this planet. Why? What's going on?
+** Just weird shit
+- Different, moving sparkles in the distance (within the hills) - an organism (heat signature)
+- Fuel contaminants on the ship during Wide Awake
+- Floating Rocks (in multiple locations) that force resolve checks
+# - Ghosts/Hallucinations
+- Did something drive Kernel Payne mad?
+- Something piloted the shuttle down into the jungle - "She" that the robot knows about - Kiki Fey, perhaps?
+- Rick is stuck on his reality's version of the ship, but able to interact with us via the radio. What the fuck.

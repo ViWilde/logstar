@@ -1,0 +1,14 @@
+---
+title: "Tracking Doc (Private)"
+date: 2530-01-01T21:40:30-04:00
+draft: true
+---
+A general log of NPCs and resources.
+Specifically, the ones we're choosing not to share with the broader group
+* PCs
+- Lt Nora Bellringer :: You were in the fog, but now you're the only military PC not on shortwave central. Are you dead, AWOL, lying low, or secret n+1th thing?
+* Resources
+- Armory: Western edge of the hills
+- Shuttle 1: Cave somewhere
+- Shuttle 2: Snowy peak (near Raul?)
+- Shuttle 3: Jungles
