@@ -1,0 +1,132 @@
+---
+title: "Welcome to the Jungle"
+date: 2530-11-03T21:06:57-04:00
+draft: false
+---
+* Shuttle Ping
+- Jungle shuttle: Can we ping it via Shipmind, comms module or radio, or get a read on its sensors/GPS/anything?
+- Piloted by a competent pilot, who chose to turn off Shipmind access to cameras, etc.
+- Maybe to preserve something, or something malfunctioning, or an attempt to lock it down from enemy accesses
+- We sent out a ping, broadcasting "Hi this is Esper Thorn, who are you?". It was successfully sent, but received no response (or, the response was not received, Byzantine generals etc etc)
+* Travel
+** Mountains/Hills
+- We make double-time
+- Little creatures: Eggs covered in fur, with rabbit ears/wings/mouths? Bright yellow and pink. Furby-looking, eat bark. Specifically a rabbit-ear shaped organ, that's used for sensing but also eating.
+- Six-legged deer-looking creatures
+- We all failed luck checks: A purple region is starting to form (i.e we're getting towards the purple region)
+- Consolus feels like we're being watched
+- Strange rock: Green, with moss and lichen growing on it. Including purple moss.
+- Green: Deep+bright non-shiny green, flat/rounded surface (not a gemstone). 
+- Martin steps toward the rock; rocks start growing, locking him in place
+- We are able to pull Martin out; but strange growths form (including weird thoughts/feelings/senses), and we mark lots of IT (and bio damage)
+- The leg muscles are atrophied; decreased muscle mass. No rock shards (they were purged by the dish detergent)
+** Lake District
+- Trees and mushrooms; browns, pinks, purples, reds
+- Lightning reeds
+- We mess up taking the sled through the reeds, give away position, hear a weird calling sound throughout the forest - apes, or elk, or bison?
+- The call is guttural, strong lungs. Very much trying to send out a loud message.
+- Shapes are moving deep within the purple region, the "trees"/mushrooms in the region are swaying.
+- White powder is growing on a rock, growing on the side facing the sun. Little crabs are crawling. 
+- The crabs are licking at the white powder
+** Rest
+- Nightmares
+- Back on the ship
+- See Oak's body
+- It goes "it's all your fault" repeatedly, increasingly distorted
+- Martin's dreams are calmer
+- Martin stumbles out of the tent (in the dream??), and sees a forest road with three paths:
+  + Jungle: hearty and warm
+  + Crackles like lightning, like travelling on a telephone wire
+  + Pool of water, with voices and memories inside it
+- He picks the pool, some fun stuff happens in secret
+- Did the pool heal him up? Possibly.
+*** Astrogation
+- This is not Serenity, we're not even in the right sector for that
+- We have a very vague sense of where we are.
+- Local navigation: We're a little farther away than we should be by physical distance, and not much further by Jump Distance.
+- Rockwell shuttle: Interface with astrogation, can we get a sense on where we are? Specifically (1) how far is the nearest colony and (2) how far is our destination.
+**** Maurie
+- Ashleigh's last jump went slightly off course, and we jumped out slightly earlier than we should have.
+- Also my jump, i.e. one of me or Ashleigh messed up. Or both.
+- We ended up probably 10-20 light years off target in physical distance, but that maps to a few hours of subspace.
+- There's someone calling themselves the Weatherman
+- Ashleigh might have died on the ship (she was sleeping). The alarms might have woken her, and she might have gotten to a pod, but nobody's heard anything from her.
+- But right now it looks like Esper abandoned /both/ her co-pilots to die on the ship.
+*** Forest Angel
+- Something moving towards us; we can hear it shimmying towards the tent.
+- A tendriled creature, with so many eyes, and rings of flesh
+- Options: React with revulsion or awe.
+- Esper is awestruck (she is in love with the stars and bursting with repressed wanderlust)
+- Esper is drawn closer to it, but retains her judgement
+- Symbols: Connective tissue, eyes, etc. form strange symbols.
+- Symbols: Some of them glow under infrared, i.e emit heat
+- It's physically not too intimidating (it mostly does psychic compulsion, we got it to float away pretty easily)
+- Martin is still worryingly enchanted by it.
+** Jungle Approach
+- Pools of cyan liquid
+- Brambles
+- Purple pineapple-like fruits
+- Spider-dog
+- Reddish-brown trees.
+- Last messages from the moss-robot:
+  - "Keep an eye on the doctor. I fear for him"
+  - "Beware her in the jungle and those who lurk. Do not trust those you see there"
+
+*** Martin's Dream
+- Martin: The thing (moss robot) seems overly paranoid, maybe we shouldn't trust them too far?
+  - In the body of a woman, saw someone say "It had to be done, you saw what ruin they brought". Then a next memory - on a hill seeing something knowing it was going to land.
+  - "I felt like I needed to get to whoever landed first... before the others' red wicked tendrils"
+  - Martin described the robot as an acolyte, odd choice of words.
+
+*** Jungle Exploration
+- Rock roots
+- Blue mushrooms
+- Brown bulbs, with purple leaves.
+- Vines that move - possibly a snake, coiling up a tree.
+- Three-legged frogs, with peashooter mouths.
+- There's a river in the way
+- 4-legged spider creature, weaving a web-net, trying to fish
+- The current is harsh
+- Something is rushing towards us; vaguely humanoid (size and shape)
+- It's someone in Lodestar military armor
+**** Snake
+- A massive serpent lashes out at Gretel
+- Bullets seem to mostly make it mad 
+- It has a weird organ - a heart? That vibrates menacingly
+- Regenerates, including bone
+- I got bit in the stomach and one-shotted
+- Bite left a strange greenish swelling
+**** Ending
+- We found an encampment of Lodestar soldiers - seemingly not Midas, they seem to be baffled by our presence.
+- Some soldiers and an admin(?) (some guy with a pistol wiping their brow)
+* Bestiary 
+- Little creatures: Eggs covered in fur, with rabbit ears/wings/mouths? Bright yellow and pink. Furby-looking, eat bark. Specifically a rabbit-ear shaped organ, that's used for sensing but also eating.
+- Mountains/???: Six-legged deer-looking creatures
+- Jungle: Three-legged frogs, with peashooter mouths on top of their heads
+- Jungle: 4-legged spider creature, weaving a web-net, trying to fish
+** Be Not Afraid (Lake/???)
+- Something moving towards us; we can hear it shimmying towards the tent.
+- A tendriled creature, with so many eyes, and rings of flesh
+- Options: React with revulsion or awe.
+- Esper is awestruck (she is in love with the stars and bursting with repressed wanderlust)
+- Esper is drawn closer to it, but retains her judgement
+- Symbols: Connective tissue, eyes, etc. form strange symbols.
+- Symbols: Some of them glow under infrared, i.e emit heat
+- It's physically not too intimidating (it mostly does psychic compulsion, we got it to float away pretty easily)
+- Martin is still worryingly enchanted by it.
+
+** Snake (Jungle)
+- A massive serpent lashes out at Gretel
+- Bullets seem to mostly make it mad 
+- It has a weird organ - a heart? That vibrates menacingly
+- Regenerates, including bone
+- I got bit in the stomach and one-shotted
+- Bite left a strange greenish swelling
+
+* Scavenging/Herbarium
+- Lake/???: Trees and mushrooms; browns, pinks, purples, reds
+- White powder is growing on a rock, growing on the side facing the sun. Little crabs are crawling. The crabs are licking at the white powder
+- Purple pineapple-like fruits
+- Blue mushrooms
+- Rock roots
+- Brown bulbs, with purple leaves.
