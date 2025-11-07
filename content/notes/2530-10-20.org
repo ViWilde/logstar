@@ -1,5 +1,5 @@
 ---
-title: "Lingual Lures"
+title: "Dead Men Tell Some Tales"
 date: 2530-10-20T21:40:30-04:00
 draft: false
 ---
@@ -79,7 +79,7 @@ draft: false
 - Blobs of black smoke, one humanoid, four creatures. The humanoid is fighting the creature.
 - Are we being ambushed?
 
-** Dead Men Tell Some Tales
+** Beguiling Corpse
 - Rick claims he opened a door for us, but it remains closed
 - Rick definitely seems legitimately scared, and like he's trying to help us.
 - But his mess-up is too suspicious to be accidental
