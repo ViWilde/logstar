@@ -1,0 +1,72 @@
+---
+title: Colors & Conspiracies
+date: 2530-11-17T21:33:50-05:00
+draft: false
+---
+* NPC tracking
+** Digby 
+HP: 6/11      STRESS: 2
+AC: 12         Armor: 4
+Affliction - Broken Leg is negated by Power Armor
+Affliction - Broken Arm
+** Juniper
+HP: 10/10      STRESS: 1
+AC: 9              Armor: 1
+** Ashleigh
+HP: 10/10      STRESS: 0
+AC: 9              Armor: 1   
+
+
+* Landing
+- Digby's badly burned and concussed
+- His arm is attached, but damaged enough it'll be unusable for a while.
+- Panspectrals don't do much for the fog, but they do spot radio signals from underneath the fog.
+- Lots of things around here want electricity.
+- We send a loud radio ping, trying to get to Abi/Ewan
+- We heard a voice back go "...radio?"
+- On the beach shore: A hunk of metal - a pod?
+- It's the same pod that Ewan/Abi were in.
+- There's a visible indent, of something being dragged across the beach (something) 
+- Raspberry Pudding - holding a radio
+- The hand-creatures are sentient
+- "The rhythm"
+- Martin was absent-mindedly doodling shapes.
+- The sand refracts sunlight, like a prism.
+- We held a hasty funeral for Gretel
+  
+* Ashleigh
+- She woke some people up who shouldn't be woken up
+- Those people (Joaquin etc) work with "Foramander" - corp guy from mars.
+- They knew the captain was going to fire me
+- She put some algae in the tank, and intentionally went off course.
+- "I woke them up, Olu wasn't supposed to be there"
+- So Olu tried to citizens-arrest Victor and co.
+- They were looking for "Lothlorien"
+- That one's the Galadriel kingdom
+- So basically this planet is known to Lodestar (or at least to Formander)
+
+* Mahjong
+- Raspberry has some leg cybernetics, and also some weird magic keeping their leg wound from being too bad, it seems. 
+- We're heading to play Mahjong
+- Shimmering in the distance, we see nightcrawlers - giant five-legged handlings.
+- Alfred activates the water symbol, by shining green kelp-filtered light on it.
+- He takes damage, gets dehydrated, but essentially summons a bucket's worth of water.
+- I tried it with black (UV) light, on the lightning-ish symbol
+- Testing: Is this keyed to the visible spectrum somehow?
+- It has a reaction (luck check ,etc.) so it does something.
+- Esper feels paranoid, compelled to stop Martin's doodles, but also has a weird paranoiac precognition now?
+- Ava speculates it's less about /light/ and more the combination of light and /intention/.
+  
+* Weeping Angel 
+- Ava stays up obssessing over the drawings/images on her tablet.
+- After a while, the symbols begin to look like eyes staring at her.
+- Ava is seemingly hypnotized
+- Eyes begin to ooze out of the ipad, a ceaseless watcher.
+- The image of an angel becomes an angel
+- The angel drained energy somehow; we wake up feeling withered.
+- We see something - light? Darkness? rushing from us to the angel, to fuel its creation.
+  
+* Autopsy - Ceaseless Watcher / Angel
+- Flesh is mammalian
+- Anomalous substances - lots of strange chemicals
+- Some supernatural(*) aspects - the analyser implies it's just flesh without a brain or animating "spark" (which tracks with the hypothesis that it robs this from us somehow)
