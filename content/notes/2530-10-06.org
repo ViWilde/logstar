@@ -1,5 +1,5 @@
 ---
-title: "Terra Incognita"
+title: Terra Incognita
 date: 2530-10-06T21:32:33-04:00
 draft: false
 ---

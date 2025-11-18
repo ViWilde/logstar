@@ -1,5 +1,5 @@
 ---
-title: "Shadows on the Ship"
+title: Shadows on the Ship
 date: 2530-10-27T21:40:30-04:00
 draft: false
 ---

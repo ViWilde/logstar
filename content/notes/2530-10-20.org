@@ -1,5 +1,5 @@
 ---
-title: "Dead Men Tell Some Tales"
+title: Dead Men Tell Some Tales
 date: 2530-10-20T21:40:30-04:00
 draft: false
 ---

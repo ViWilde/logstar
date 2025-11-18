@@ -1,5 +1,5 @@
 ---
-title: "Wide Awake"
+title: Wide Awake
 date: 2530-10-02T21:06:57-04:00
 ---
 
