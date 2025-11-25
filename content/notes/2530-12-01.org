@@ -1,4 +1,6 @@
 ---
-draft:true
+title: TBD
+date: 2530-12-01T21:06:57-04:00
+draft: true
 ---
 - TODO Ask Ashleigh and Evelyn about Foramander
