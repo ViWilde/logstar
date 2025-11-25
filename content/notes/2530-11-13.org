@@ -8,7 +8,7 @@ draft: false
 - Administrator, Evelyn's boss.
 - Payne tried to shoot Halifax, is being shamed, dishonored, posthumously fired, etc.
 - "There are things here I think Lodestar will be very interested in"
-- "Things maybe more imoportant than getting to Serenity"
+- "Things maybe more important than getting to Serenity"
 - Keep a look out for interesting things.
 - There are some powerful things here. Medicines, etc.
 - This could be a new home!
@@ -18,7 +18,7 @@ draft: false
 - In our (i.e Esper) world, he thinks.
 - Not a monster - robots(?)
 - Purple light, purple moss, here to fix the ship.
-- NOTE: Purple moss was destroyed by the door.
+- NOTE: Purple moss was destroyed by the door. Oh, makes sense. Some kind of airgapping?
 - Sent by the Duke
 - They will wait for instructions/commands before actually beginning their work
 - Martin doesn't trust him (Duke).

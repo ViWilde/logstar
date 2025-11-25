@@ -1,0 +1,132 @@
+---
+title: In the Hall of the Mountain... Duke?
+date: 2530-11-24T21:06:57-04:00
+draft: false
+---
+
+* NPC tracking
+** Digby 
+HP: 9/11      STRESS: 2
+AC: 12         Armor: 4
+Affliction - Broken Leg is negated by Power Armor
+Affliction - Broken Arm
+** Juniper
+HP: 10/10      STRESS: 1
+AC: 9              Armor: 1
+** Ashleigh
+HP: 10/10      STRESS: 0
+AC: 9              Armor: 1   
+** Ewan
+HP: 9/9      STRESS: 5
+AC: 9              Armor: 1   
+** Abi
+HP: 10/10      STRESS: 5
+AC: 9              Armor: 1   
+* Opening Questions
+- The mahjong stones: Smooth black stone tiles
+- The beach has alternate-history transmissions over the radio (Alan and Esperanca)
+- The ship had volcanic glass stones and alternate-history Rick.
+- Is there a connection? Quite possibly.
+- Answer: No, they were pretty different (volcanic glass vs basalt)
+* Game
+- Duke: "It is an angel, but not that kind. It is simply called an angel" (about the watcher)
+** Abi
+- She knows Duke Landon
+- An engineer of sorts - algorithms, cybernetics, drives/astrogation
+- "Less biblical than the rest of his lot"
+- He got lost in space, apparently.
+- His friend Dr. Kiki Le Fey - biologist, discovered extraterrestrial (outside Sol system) life
+- Fordham Ishmael: Not someone she's familiar with.
+** Sunrise, Parabellum
+- We're running low on rations.
+- Sensors going haywire
+- The landing gear is covered in slime, specifically slime that wants to see the Duke.
+- The duke asks us to stick the slime in a receptacle to be "dealt with"
+- Martin draws the symbol for friend
+- Purple seems to be a nice color, the duke likes it.
+- It's from a funky purple rock, encased in glass.
+- The glyphs here are ones we haven't seen before.
+- A hole appears/shows up in the wall, and a blue light shines through
+- We deposit the slime in the square receptacle
+** Meeting the Duke
+- A four-legged scuttling humanoid robot - copper with purple light and moss
+- In shadow, a man with a cane, walking out.
+- The Duke is strangely young.
+- Lothlorien - eternal youth?
+- Emissary of the Duke: The robot, formerly named Sally, now semi-organic, and goes by Emissary.
+- His cybernetic implants have been shot through with moss and crystals.
+- The moss is Turing-Complete. Moss and crystals (essentially, the color purple) is incredibly high-density computation+storage
+** Loredump
+- We thought it was matter,energy,information interplaying that was the core of the planets strangeness
+- Instead it's a language - the language of runes and colors of this planet.
+- It's something capable of manipulating minds (the Angel did that, as did Duke)
+- The cane is magical, emits smoke in various colors
+- Oh Blue and black smoke (and nightcrawlers)
+- Four colors were implied: We know purple, green, red are some of them
+*** Expedition
+- Heady days of early astrogation
+- Picked a planet to scout/study
+- He calls the planet Middle Earth
+- Where are his colleagues? His ship?
+- The planet "doesn't stay in one place"
+- The entire star system moves - through something like subspace. 
+- TODO: In that case, how did Foremander find it? Or, get the possibly-space moss.
+*** His colleagues
+- "There was some conflict"
+- Creatures destroyed their ship
+- Some people have died, others defected. 
+# - Defected as in? He mostly meant just left to found other labs, but maybe some kind of Foremander?
+- Defected as in: Went insane, dedicated to propogating alien nests.
+- Dr. Le Fey is allegedly trying to kill Duke with slime.
+*** Magic System
+- Green: Mass, Blue: Information, Red: Energy
+- Purple is blue/red.
+- "Interfacing Talents": Connecting with the planet. (IT)
+- So we use the colors to tag parts of speech; red for verbs/actions, green for (physical) subjects/objects, blue for more metaphorical things
+- There's a secret color just outside the visible spectrum, that corresponds to logical conditionals (=if=, =while=)
+*** Alternate timelines
+- Grammatical tenses; forming the right kind of sentences using =if= lets you essentially view the past/present - this is the source of alternate/counterfactual timelines
+*** More Information
+- One of the symbols stands for human.
+- "Almost like our arrival created the symbol"
+- They started "experiencing" the symbol, i.e it just appeared in their head.
+- "This purple moss could make millions! And also help people"
+- We asked how he found this planet. He said "we were exploring, we found an astrogation anomaly, and landed up here"
+- He genuinely believes this.
+- Ishmael: Wandered into the wilderness, goes around destroying things, gathering stuff.
+- There are other bunkers: One between beach/fog, one radlands, one jungle, one in the hills, one /in the middle of the stormcloud/ and one on one of the moons.
+- Ishmael: Last seen in Rockwell.
+- Path: Fog->Mountain->Islands->Fog->Rockwell. 
+- Specifically started at the fog around the time we landed.
+- Hypothesis (Ryan): Ishmael is the skittish 3-eyed fellow.
+- Bunker on the moon: Suggests they had a functioning shuttle, at some point late enough to be in the "establishing bunkers" stage of expedition
+- They managed to teleport to the moon, mechanism is a bit like the crystal-hoppers.
+*** Offer
+- He wants his robots to fix our ship
+- This might entail installing a backdoor
+- So we would like him not to do that.
+- Instead, we're asking him to help us set up a campsite
+- Ok he saw through us. He's okay with us being cautious, gave us as much time as we need.
+- He has given us permission to seek out radlands/stormcloud bunkers
+- Don't seek out Ishmael/Fey - they'll lie, and if we decide to walk away they won't let us.
+- It seems like Ishmael is not the three-eyed guy, it's a grey-haired person Martin saw in his dreams.
+- Duke gives me a cybernetic enhancer - weird purple moss, electric shells, etc. 
+- There's a new setting on my glasses! It lets me see the magic planet-colors.
+  
+* Transmissions
+** Soup
+Consolus and I were wondering if it's time to let the whole crew in on the secret about Duke and Erebor. We're wondering about how Halifax will take it - in particular, we don't want him to trust Duke blindly.
+Also I have a bad feeling that if we let Halifax and Duke meet, they're going to pull a Onceler on this whole planet.
+You know the man better than we do - do you know how worried we should be about these things?
+
+** Nora 
+We've become aware of a former expedition to this planet, under the name of Project Erebor - consisting of scientists and engineers including Duke Landon, Kiki Fey, and Fordham Ishmael.
+We recently met with Duke Landon in the Ion Hills. We don't fully trust him yet, but he seemed sympathetic to our plight, and offered us valuable help (most recently with locating the lost starboard engine).
+
+He advised us that Kiki Fey is volatile and cannot be trusted, and is extremely dangerous (she has access to advanced technology as well as knowledge of the planet's... eccentricities and ability to exploit them)
+We believe she's based in the jungle somewhere, so we're letting you all know this so you know to be wary.
+
+TODO: Add more concrete details, not just a summary
+
+** Everyone
+TODO

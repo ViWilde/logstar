@@ -3,20 +3,6 @@ title: Colors & Conspiracies
 date: 2530-11-17T21:33:50-05:00
 draft: false
 ---
-* NPC tracking
-** Digby 
-HP: 6/11      STRESS: 2
-AC: 12         Armor: 4
-Affliction - Broken Leg is negated by Power Armor
-Affliction - Broken Arm
-** Juniper
-HP: 10/10      STRESS: 1
-AC: 9              Armor: 1
-** Ashleigh
-HP: 10/10      STRESS: 0
-AC: 9              Armor: 1   
-
-
 * Landing
 - Digby's badly burned and concussed
 - His arm is attached, but damaged enough it'll be unusable for a while.
