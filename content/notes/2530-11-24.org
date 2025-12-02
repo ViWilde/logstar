@@ -6,12 +6,12 @@ draft: false
 
 * NPC tracking
 ** Digby 
-HP: 9/11      STRESS: 2
+HP: 11/11      STRESS: 1
 AC: 12         Armor: 4
 Affliction - Broken Leg is negated by Power Armor
 Affliction - Broken Arm
 ** Juniper
-HP: 10/10      STRESS: 1
+HP: 10/10      STRESS: 0
 AC: 9              Armor: 1
 ** Ashleigh
 HP: 10/10      STRESS: 0
@@ -112,7 +112,6 @@ AC: 9              Armor: 1
 - It seems like Ishmael is not the three-eyed guy, it's a grey-haired person Martin saw in his dreams.
 - Duke gives me a cybernetic enhancer - weird purple moss, electric shells, etc. 
 - There's a new setting on my glasses! It lets me see the magic planet-colors.
-  
 * Transmissions
 ** Soup
 Consolus and I were wondering if it's time to let the whole crew in on the secret about Duke and Erebor. We're wondering about how Halifax will take it - in particular, we don't want him to trust Duke blindly.
@@ -126,7 +125,27 @@ We recently met with Duke Landon in the Ion Hills. We don't fully trust him yet,
 He advised us that Kiki Fey is volatile and cannot be trusted, and is extremely dangerous (she has access to advanced technology as well as knowledge of the planet's... eccentricities and ability to exploit them)
 We believe she's based in the jungle somewhere, so we're letting you all know this so you know to be wary.
 
-TODO: Add more concrete details, not just a summary
-
 ** Everyone
-TODO
+In Which All is Revealed.
+There's a segment in Consolus' notes describing our history with the Duke. This is the other segment, describing our meeting/conversation.
+See [[file:transmission.org]]
+*** Colors
+- The colors reflect physical quantities - matter (green), energy (red), and information (blue).
+- In extreme/boundary conditions, these quantities are interchangeable; the planet somehow plays a role in moderating those conditions
+- There's a fourth color, just outside the visible spectrum, that roughly corresponds to modalities/possibility; it's responsible for the crossovers with alternate timelines, such as the Could-Have-Beens
+- These colors, along with the symbols, form a language which is responsible for (or at least related to) most of the strangeness of this planet; for instance, his lab uses purple moss (red+blue) to augment their computers
+*** Expedition
+- The star system moves, as if through subspace, so it doesn't have consistent coordinates
+- His exploratory expedition (~30 years ago) noticed the planet's anomalous nature (via astrogation systems), landed to study it, and became stranded
+- There are other surviving members of his expedition, he claims they're insane/dangerous. Kiki LeFey (a biologist) and Fordham Ishmael (unknown) are two that were named
+*** Bunkers
+He mentioned several bunkers/labs from his expedition that are still intact:
+- Stormborn (Isle)
+- Mithlond (Moon)
+- Moria (Radlands/Rockwell)
+- Osgiliath (Beach/Fog)
+- Doom (Mountain)
+- Lothlorien (Jungle)
+Note from Esper on that last one:
+- Krahl's band of Foramander soldiers were looking for "Lothlorien"; how they know about it is still a mystery
+- Kiki Le Fey is based in Lothlorien as far as we know (see the warning at the end of this transmission)

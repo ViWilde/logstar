@@ -1,6 +1,44 @@
 ---
-title: TBD
+title: Whales on a Plane
 date: 2530-12-01T21:06:57-04:00
-draft: true
+draft: false
 ---
-- TODO Ask Ashleigh and Evelyn about Foramander
+* To-Do Items
+- Ask Ashleigh and Evelyn about Foramander
+- Worry about the military group
+- Investigate the three-eyed fellow; try to broadcast on the radio and hope they're listening?
+* Interdepartmental Social
+- Corrin: Created a gecko using the word for gecko in green, but it had no soul/intelligence
+- Cyan gecko: It actually functioned, in that it had 'a soul'.
+- Eating magic things apparently improves your attunement to the planet's magic (i.e IT)
+- Ellie found a staff in a hut in the fog - Ishmael's hut?
+- The staff functions like Duke's cane; writes in coloured smoke
+- The three-eyed creature was carrying a similar staff and saved Ellie's life once (in the fog)
+- Corrin doubts the scientists are human, wants us to do a bioscan or blood test or something
+- Corrin suspects Ash is a traitor, and knows about the Formander goons
+* Rescue
+- The group emergency-landed in the Fleshwoods
+- The Duke gave us 3 robots, and we're heading out to do a rescue
+- Flying over: A humanoid creature with a slimy left arm, that seems to be holding one of them captive. 
+- The creature has dark hair and purple mold
+- Ryan Lore: Osgiliath (the beach/fog bunker) is interesting. Osgiliath was a city of Gondor, at the time it was the last city between Morgoth and Minas-Tirith.
+- So Osgiliath, in LOTR, was "the city between our last holdout and our enemies". And it's interesting that Osgiliath is where the handlings were concentrated. Hypothesis from Ryan: It's abandoned, now Handling property.
+- The turqoise slime is forming into human shapes
+- The slime's wield weapons - sabres, bludgeons, etc.
+- There are goopy masses of slime - slime artillery?
+- They lost Linnea (Jasmine)
+- They were heading to Landon's camp near the ship
+- Corrin and Ellie are basically spellcasters now.
+- Corrin has seen the triangle diagram but he doesn't remember where. I suspect it's at Osgiliath (Beach/Fog) or Moria (Radlands/Rockwell)
+* Three-Eyes and Ishmael: The Evidence
+** Ishmael
+- Ishmael's Path: Fog->Mountain->Islands->Fog->Rockwell. 
+- Martin had a vision of a grey-haired man setting fires and killing people
+- Dr. Landon confirmed the description of this vision matched Ishmael
+- Ellie found a hut with a magic staff in the fog, early in the game - Ishmael's, perhaps?
+** Three-Eyes
+- Seen by Ellie in the fog; it saved their life
+- Esper has seen it in the mountains near the ship
+- Ellie has (if I recall) also seen this creature at other times on occassion
+- Their movements (as witnessed by us) are consistent with Ishmael's path
+- They seem nervous/skittish, and visibly humanoid.
