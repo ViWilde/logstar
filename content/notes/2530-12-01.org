@@ -30,6 +30,7 @@ draft: false
 - They were heading to Landon's camp near the ship
 - Corrin and Ellie are basically spellcasters now.
 - Corrin has seen the triangle diagram but he doesn't remember where. I suspect it's at Osgiliath (Beach/Fog) or Moria (Radlands/Rockwell)
+- Corrin mentioned her group has entered Moria (but did not stay too long, due to remembering the lore)
 * Three-Eyes and Ishmael: The Evidence
 ** Ishmael
 - Ishmael's Path: Fog->Mountain->Islands->Fog->Rockwell. 
