@@ -16,7 +16,7 @@ draft: false
 - The three-eyed creature was carrying a similar staff and saved Ellie's life once (in the fog)
 - Corrin doubts the scientists are human, wants us to do a bioscan or blood test or something
 - Corrin suspects Ash is a traitor, and knows about the Formander goons
-* Rescue
+* Deus Ex Shuttle
 - The group emergency-landed in the Fleshwoods
 - The Duke gave us 3 robots, and we're heading out to do a rescue
 - Flying over: A humanoid creature with a slimy left arm, that seems to be holding one of them captive. 
@@ -26,6 +26,7 @@ draft: false
 - The turqoise slime is forming into human shapes
 - The slime's wield weapons - sabres, bludgeons, etc.
 - There are goopy masses of slime - slime artillery?
+* Making Conversation
 - They lost Linnea (Jasmine)
 - They were heading to Landon's camp near the ship
 - Corrin and Ellie are basically spellcasters now.
@@ -33,7 +34,7 @@ draft: false
 - Corrin mentioned her group has entered Moria (but did not stay too long, due to remembering the lore)
 * Three-Eyes and Ishmael: The Evidence
 ** Ishmael
-- Ishmael's Path: Fog->Mountain->Islands->Fog->Rockwell. 
+- Ishmael's Path: Fog → Mountain → Islands → Fog → Rockwell. 
 - Martin had a vision of a grey-haired man setting fires and killing people
 - Dr. Landon confirmed the description of this vision matched Ishmael
 - Ellie found a hut with a magic staff in the fog, early in the game - Ishmael's, perhaps?
