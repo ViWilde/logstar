@@ -1,0 +1,126 @@
+---
+title: "Into The Mouth Of Hell Rode The Six Hundred"
+date: 2025-12-14T22:10:21-05:00
+draft: false
+---
+
+* TODO
+- Tell group about subspace response
+- Hypothesis: Formanader had a mole in the original 25 - do some digging. Maybe someone named Lynser. Ask Sam about the names, and in particular if there's a Lynser on them. DONE, we don't know
+* Social - Bullets (Recap)
+- From Nora , who encountered Kiki Fey: She's pretty dangerous and insane. She's committed to this planet not being exploited, and Foramander were opposed to that. She killed all the Foramander goons (except Leo Jacinto who apparently escaped). She also broke the legs of Raspberry (because they were standing in the way of her killing Formander goons)
+- Some friends are back (Tiana, Maurie+Benedict)
+- Halifax speech: He wants us to build a colony here, he's officially aligned with the Duke
+- Heather Lynser: She's allegedly Max Foramander's only daughter (so space Vivian Wilson, I guess?). But the Formander goons claimed that one of the people we killed in the jungle firefight was Foramander's daughter. So Lodestar took Heather in for questioning, and then everything went to hell. 
+* Social - Martin and Evelyn retroactively socialise
+- Nina: Not a fan of Kiki Fey. Checks out. 
+- Tiana's opinions. Payne: Insane. Halifax: Using the military as a private army. Bellringer: Trustworthy
+- Artz: An NPC, colonist, seems to be pro-Duke. 
+** Martin investigates - Tiana
+- Payne went insane, it was handled by Halifax+Nora
+- Halifax: "I was sent on the mission to be in the middle of nowhere" (i.e kicked upstairs), but is trying to climb the ranks via colonising this place.
+- Bellringer: Reasonable, sometimes too reasonable.
+- Most soldiers would trust her (Nora) more than an administrator
+- Nora is the highest-ranking officer.
+- Too reasonable: Too rational, comes off cold, makes plans that aren't as practical for people less clear-thinking than herself.
+- Halifax: Most people are more likely to listen to him. Also if it came to a vote, Halifax could probably wake up a bunch of colonists to vote for him.
+** Evelyn investigates
+- Admins are pro Halifax, mostly (he woke them up)
+- Corrin: He's been awake a while, more skeptical
+- Admin Kit: Mysteriously missing
+*** Admin Martinez
+- Has concerns about Halifax's plan
+- "We had a contract to get these colonists to Serenity, not to leave them here"
+- This colony is completely unknown and untested - we're unprepared for it. Colonising it like this - ad-hoc, unprepared - is foolish.
+- She saw Kit with Corrin Bennett in the woods, near the maw of the mountain (before the social).
+- I swear to god Manav if you pulled a Manav again.
+- With the cryobase flown in, we're debating whether to wake up the full military.
+  
+* Duke
+- "I can't predict the wanderer, it's a whole thing"
+- "The Heart isn't an infection, it's closer to an abusable-but-useful drug like psych"
+- Duke: "Martin, Evelyn, you've both been touched by the planet. Do you still feel yourself?" And they both conspicuously dodged the question.
+- Dead man's switch: If Esper doesn't turn it off, in 12 hours it'll send out. "We challenged the Duke and went to talk to his bots at Duke's Landing, if you're seeing this it means we mysteriously disappeared"
+
+** His account
+- Kiki (formerly atheist) decided the planet/heart must be some kind of god, worships it. She became addicted to it.
+- Fordham saw it as a demon. Became obssessed with destroying it.
+- Duke: "I'm just a little guy!"
+- The Duke "can see things". When asked how he knows about Martin's kid, he said "you talked about them. Or will talk about them". Also he can see Martin's thoughts because touching the door way back when formed a connection.
+- Slimes: Kiki convinced them to spread, so they believe this.
+- Kiki's goals: She's obssessed with making the world see things the way she does. Including killing people who don't.
+- (This tracks with Nora and others' accounts)
+- Duke: Claims he doesn't want to /take/ the heart, just colonise+use it.
+- He claims with the magitech we can "speak to people across the galaxy. Currently, just the planet"
+- "Everyone is desperate".
+  
+*** Heart of the Mountain
+- Source of the weird stuff (magic, etc)
+- Magic is stronger near it. So the camp is pretty close to it. Interesting.
+- The cauldron - the area around it, warped by the heart.
+- So it's basically a weird magical-energy-singularity.
+- He's not mentioning any notion of cycles or volcano or whatever. Interesting.
+
+** Martin+Evelyn Sidebar
+- Duke: "Martin, Evelyn, you've both been touched by the planet. Do you still feel yourself?" And they both conspicuously dodged the question.
+- Martin: For a couple of hours (sigil-drawing period) they weren't really aware of what they've been feeling.
+- Evelyn: Keeps dodging
+
+* Charge of the Slime Brigade
+- We're being attacked by slime artillery, from the airstrip
+- Parasites: They hit Martin, we might have to worry about him being infected.
+- Attacks:
+  - Airstrip
+  - Winged creature over the forest paths
+  - Cabins - slime attack
+  - Attack "roots": Northern detachment, heading to the hill. Main detachment (spdier-dogs) - attacking cabins. Third detachment - heading to Duke's Landing
+- Slimes: Escorting a human with something green glowing on their face. It's Nisha, the comptech. She's with the slimes - either borg-assimilated or just enlisted
+- Manteeth rays
+- We made our way to the shuttle, and acquired a machine gun (and mounted it). Alfred and Evelyn were wounded in the escape.
+- Three attacking prongs:
+  1. Maw of the mountain (seeking the Heart)
+  2. Duke's Landing (Nisha - hunting Landon)
+  3. Colony Square 
+- Kiki: Needs the heart, and a Jdrive
+- Duke: Wants us to jump to a colony, come back with a frigate, and stop Kiki's plans. 
+- Compromise plan: Clear the skies a little, and then jump!
+- Midas: Using antigrav to fly, trying to get some distance and hold out a few days.
+- The ship made it (successful evac), but a lot of people are dead.
+** Heather
+- She called us on the radio, while we were talking
+- She's basically in Fey's camp, as a sort of double-agent/change the system from the inside - she mentioned trying to stop them from shelling our (Lodestar) medic tents.
+- As a pilot, Esper is in danger (from Kiki)
+- Heather and Linnaea: Captured by Kiki, they persuaded her to give them a chance to diplomance the camp before she massacred them, so she let them go.
+- She does not trust Fey at all, but there are disagreements within Fey's forces (i.e the creatures of the planet, since a lot of them are just her creations).
+- Kiki's forces are not united.
+  - "Red Joy" - intent on seizing the Heart, using it to spread the planet's influence throughout the galaxy. Same as Kiki. 
+  - "Blue hope" - Allegedly benevolent. They just want the status quo. Sided with Kiki, because she's the least unaligned with them.
+  - Metagaming dictates that there should be a green faction as well.
+  - Nisha: She's a mold symbiote. She wants to murder the duke.
+- Is there any way to get the blue hope ending: Blue Hope is a septid, "travelling with a mutal friend". Mutual friend's name was not revealed, out of fears that we would harm said friend.  Hypothesis: Leo Jacinto??
+- Then the radio cut
+** Ending Scene
+- Two of our allies are waving on the ground - Digby and Ash. But Digby was on the ship a minute ago
+- Are these slimes? Should we pick them up? Find out on next week's episode of LODESTAR.
+* Thoughts
+** Kiki's Plan 
+She wants to spread the planet's influence throughout the galaxy.
+*** What does Esper think?
+- Kiki's a lunatic. No.
+*** What does Vi think?
+- Spreading the life-death cycle seems bad
+- Everything else seems fine. The planet's magic is deeply beautiful
+- Counterpoint: Kiki is an insane Borg Hivemind. The only problem with Kiki's plan is Kiki.
+- So letting Kiki have this power is unacceptable.
+** Blue Hope's Plan
+- This is ideal
+- Can it be achieved?
+- First priority is stopping Kiki. 
+** Duke's Plan
+- Esper likes Lodestar, but she's seen what corporations did to Earth (and Ganymede), and she can't stomach them doing the same thing to this wonder.
+- This is bad. But not unacceptable. And it can be managed after the fact. A little.
+- The colony plan involves opening up Lodestar, at least a little, and perhaps spelling the beginning of the end.
+- I'm not /too/ optimistic about our ability to keep this genie in the bottle.
+** Observations
+- Ash and Maurie are probably also in danger, since I suspect Kiki also needs them.
+- Juniper also, but less so (Kiki can probably science the Jdrive on her own)

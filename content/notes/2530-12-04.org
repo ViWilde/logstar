@@ -3,6 +3,22 @@ title: Of Course You Have Purple Eyes and Pronouns
 date: 2530-12-04T21:15:17-05:00
 draft: false
 ---
+* NPC tracking
+** Digby 
+HP: 11/11      STRESS: 2
+AC: 12         Armor: 4
+Affliction - Broken Leg is negated by Power Armor
+Affliction - Broken Arm
+** Juniper
+HP: 10/10      STRESS: 0
+AC: 9              Armor: 1
+** Ashleigh
+HP: 10/10      STRESS: 0
+AC: 9              Armor: 1   
+** Abi
+HP: 10/10      STRESS: 5
+AC: 9              Armor: 1   
+
 * Dropoff
 - Corrin was heading to a spot in the jungle, based on coords they received over the radio.
 - Coordinates - match up with the hatch we spotted in the jungle.
@@ -62,9 +78,9 @@ draft: false
 - It's the three-eyed fellow!
 - They're quietly playing 
 - The eyes are mechanical - lights.
-- Hypothesis - it's Ishmael's equivalent of the Emissary
+- Hypothesis - he's Ishmael's equivalent of the Emissary
 - We see the engine in the distance, but it seems to move (~100ft) every time lightning flashes
-- When asked about if it knows Morse code - it part nods, and then shakes it's head
+- When asked about if he knows Morse code - he part nods, and then shakes his head
 - Diversity win! This three-eyed semi-robotic creatures uses he/they pronouns!
 - He wants us to call him "Ishmael"
 - The bunker is apparently theirs.
@@ -97,6 +113,17 @@ draft: false
 - ASMO Down
 
 *** Files we accessed
+**** URGENT: COMMS LOST
+Subject: URGENT - COMMS LOST
+Has anyone been able to make contact with Sol recently? Kuiper? Any colony for that matter? 
+
+
+Re: URGENT - COMMS LOST
+Duke says it’s some kind of Astrogation anomaly. Like the planet itself has moved? How the hell are we supposed to get home?
+
+Re: URGENT - COMMS LOST
+Patience. The planet will provide a way; we simply must find it.  Lothlorien will continue its studies of these ‘runes’ and I suggest other places do the same. We can sustain ourself until contact is established, and by then have something to present.
+
 **** Stormborn
 - From Duke
 - Outpost that could handle the stormy weather 
@@ -115,17 +142,6 @@ Happy exploring and go science!!!
 (PS: Be careful about the time dialation!)
 
   
-**** URGENT: COMMS LOST
-Subject: URGENT - COMMS LOST
-Has anyone been able to make contact with Sol recently? Kuiper? Any colony for that matter? 
-
-
-Re: URGENT - COMMS LOST
-Duke says it’s some kind of Astrogation anomaly. Like the planet itself has moved? How the hell are we supposed to get home?
-
-Re: URGENT - COMMS LOST
-Patience. The planet will provide a way; we simply must find it.  Lothlorien will continue its studies of these ‘runes’ and I suggest other places do the same. We can sustain ourself until contact is established, and by then have something to present.
-
 **** ASMO Down
 Subject: ASMO is down
 
@@ -151,10 +167,9 @@ The Automated System for Multipurpose Operations has been taken down for mainten
 - "Kiki - what she wants, I fear even more. Suppression, control of the galaxy."
 - "I've ended these abominations. I will end this heart too... It is the only way to keep the infection of this planet (at bay?)."
 - "Fordham Ishmael, pleading for all of you to join me. We cannot let them destroy the world."
-
 *** Conversation
 - The Wanderer is revealed to be Ishmael - presumably after several phases, and taking on horrifically high IT.
-- He confirms there is no way to restore it's speech/writing.
+- He confirms there is no way to restore his speech/writing.
 - Hypothesis: High IT + infection + (however many phases of plan he's at) causes the world to take over your brain; and destroys your ability to write any language other than this one.
 - This gives context to his inability to understand Morse Code.
 - We gave the Wanderer a radio.

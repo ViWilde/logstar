@@ -110,6 +110,7 @@ AC: 9              Armor: 1
 - He has given us permission to seek out radlands/stormcloud bunkers
 - Don't seek out Ishmael/Fey - they'll lie, and if we decide to walk away they won't let us.
 - It seems like Ishmael is not the three-eyed guy, it's a grey-haired person Martin saw in his dreams.
+- (NOTE from way later: This was wrong, the vision was a slime, Ishmael was the three-eyed fellow)
 - Duke gives me a cybernetic enhancer - weird purple moss, electric shells, etc. 
 - There's a new setting on my glasses! It lets me see the magic planet-colors.
 * Transmissions

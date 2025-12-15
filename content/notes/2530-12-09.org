@@ -1,0 +1,97 @@
+---
+title: "Interdepartmental Social: Mediocre Catering, Worse Speeches, and Even Worse Treatment of Prisoners"
+date: 2025-12-09T22:10:21-05:00
+draft: true
+---
+NOTE: This note is private, since it includes stuff divulged in confidence, from people outside the monday group
+* TODO
+- Ask Ashleigh and Evelyn about Foramander
+* Prelims 
+- Bellringer/Bradamont have been through a lot
+- Bellringer's run into Fey, and seen a magic staff before
+- Kiki had Linnaeus and Heather, they went willingly. Buttonhole them afterwards.
+* Rick
+- We should ask someone (Landon, maybe?) for Rick-help.
+* Nora
+- Kiki Fey: She's pretty dangerous and insane. She's committed to this planet not being exploited, and Foramander were opposed to that.
+- Working hypothesis: Duke sicced Formander on Fey (hence why they were looking for Lothlorien)
+- Leo: Disappeared through another gate, so either Fey nuked him or he's out causing trouble. The rest of the team has been ... dealt with.
+- She wanted to kill one of the Formander goons
+- She got to the jungle via the Gate system
+- TODO: We should investigate the moon bunker - is there a Gate to it?
+* Ship repairs
+- Comms, computer parts: Comms module
+- Astrogation: Radlands shuttle?
+- J-Drive: From the radlands shuttle, or salvage parts from our J-drive.
+- Life support: Ellie can figure out hydroponics, we need food though.
+- Hull: The big one.
+- TODO: Consider using the bots now that they'll be under supervision.
+
+* ITEM!
+- Airborne hibernatorium, lands near the colony cabins
+- Not jet-flying, floating via weird maroon energy and runes.
+- Runes on a switch (i.e the switch completes the runes for "not", to toggle something)
+- Tiana's figured out engineering all this.
+- We've unlocked the runes for /not/
+- Maurie and Benedict arrived! We have the navigation and astrogation from the shuttle, so we can restore our shuttle's astro+jdrive
+* Subspace message
+- Bellringer sent a message to Lodestar: Purely informational, very long-winded, sent lots of information (including video) about the planet.
+- Sent from ship, just about now (i.e early in the session, a little before the speech from Mr. Halifax)
+
+* Fordham Video Summary - For Distribution
+(Found in a video recording in the Stormborn Isle - Ishmael/the Wanderer directed us there)
+- There is an evil at the heart of the mountain
+- Duke is trying to steal it.
+- "Kiki - what she wants, I fear even more. Suppression, control of the galaxy."
+- "I will not let this evil fester, I know they plan to steal it."
+- "I've ended these abominations. I will end this heart too... It is the only way to keep the infection of this planet [at bay]."
+- "Fordham Ishmael, pleading for all of you to join me. We cannot let them destroy the world."
+* Friends, Incognitans, Countrymen
+- Administrator Kit (?) is missing - "wandered off"
+# - Do we want our next session to just be investigating the heart of the mountain
+- Oh dear we've accidentally forced choosing a side. Halifax is with Duke, and forming a colony.
+- At least Halifax doesn't call him "The Duke".
+- This planet is impossible to navigate to and from. The fuck is he on about, starting a colony.
+* Raspberry
+- She's suspicious, according to Halifax
+- They're running a bunch of tests
+* Heather
+- She has leathery bat wings - body modifications presumably (like Linnea bit a different flavor of insane)
+- She's covered in green slime. Ok so she's basically a slime, so the test is useful.
+# - Fuck we should've been watching Linnaea
+- Heather: Weird genetic condition (due to her war-criminal father experimenting), that has "blossomed" on the planet. Fey knows a lot about it. So that's another vector for how this information got out. I'm going to speculate that Heather's father was a high-ranking Lodestar-ian, who defected for Foramander at some point.
+- She glows white on magesight. So lots of RGB
+** Fey
+- Her project is environmentalism (she claims)
+- But Heather doesn't believe her
+- Some of the septids seem skeptical, in particular
+- Mentioned several greater beings
+- She lied; claimed Ishmael was dead
+- Fae claims (implied, interpreted by Lynser) that she intends to "share" this planet's strangeness with the rest of the universe. So, hivemind basically.
+- Precise things she said - she wants to stop the cycle of destruction on this planet. (Implied) she plans to do that by spreading it, infecting the universe.
+* Linnea
+- They all have designs upon the heart of the mountain - the core strangeness
+- She believes she can end the cycle of death and rebirth. Cycle: Fifth Season style. Life blossoms, then the volcano nukes it all. She wants to /end/ this cycle via extracting the planet's heart.
+- The Wanderer wants to destroy the heart
+- The Duke wants to sell it.
+- Kiki's "pitch": If she controls the heart, she can bring the planet immortality.
+- Abstractly Esper is interested in Kiki's plan, but also Kiki is insane.
+* Prison
+- Heather is under arrest - she's Max Formander's daughter, but the Formander goons claim that I killed Max's daughter in the shuttle firefight
+- Halifax tried to probe Heather's mind, and everything went to shit.
+- I left, because Sam basically warned me that if I got involved I'd be in a different group from Monday and I like you guys too much.
+- Presumably some good old Izzy Spatz reality-warp bullshit is happening.
+* Where does Esper stand
+** People
+- Kiki's a lunatic who'll blow everyone sky high at the first opportunity
+- Duke's a snake who'll sell us out at the first opportunity
+- Ishmael is a well-intentioned fanatic, but he's so enigmatic it's hard to say
+- Linnea seems well-adjusted?
+** Policies
+ - Duke :: Bad. Definitely in our personal best interests, but very problematic.
+ - Ishmael :: Even with the horrors, this place is so beautiful. It is impossible to be Esper Thorn and not, just a little bit, fall in love with a giant eternal stormcloud made of blood-red lightning and time dilation. Is the cycle cruel? Yes. Can Esper bear to end it? No.
+ - Kiki :: Ending the cycle sounds ... hm. I /imagine/ it involves lifting the cycle so the whole galaxy loops like this (on a longer timescale), and also allowing the world-language magic to spread through the galaxy.
+ - Linnea :: Just leaving everything as it is and going home sounds fun. 
+*** What would Captain Picard Do?
+- Linnea's option, not even close.
+- Is Kiki's bad?

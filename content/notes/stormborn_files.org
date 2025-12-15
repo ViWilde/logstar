@@ -1,0 +1,68 @@
+---
+title: "Stormborn Files"
+date: 2025-12-14T22:10:21-05:00
+draft: false
+---
+
+* Message
+Dr. Landon is behaving recklessly. His colleagues identified a danger that they feared could have galactic-scale destructive consequences.
+Regardless of whether his colleagues' claims prove to be true, they have not been sufficiently investigated, and have not been properly disclosed. Repair activities must halt until the nature of the claimed danger can be ascertained.
+Attached are files from Dr. Landon's colleagues, recovered from the Stormborn Isle, which demonstrate some of these concerns.
+
+* Attachment: File Contents (Video Transcripts)
+The following are intact video recordings recovered from the Stormborn Bunker on the island. We were directed there by Fordham Ishmael, the Three-Eyed Wanderer.
+
+Note that in-universe we do have (and are sharing) the video files as well, not just the transcripts.
+
+Here are the file contents (in order of relevance)
+
+** Annihilation (Shown to us by Ishmael)
+- "It is done. The first phase."
+- "I will not let this evil fester, I know they plan to steal it."
+- "At the heart of the mountain. The beating, thumping, heart"
+- Nila and Soup get a sense/vision/connection to a cauldron, swirling at this last phrase.
+- "It cannot be contained, it cannot be controlled. They seek to steal it. Duke is a charlatan. He will try anything to get it elsewhere"
+- "Kiki - what she wants, I fear even more. Suppression, control of the galaxy."
+- "I've ended these abominations. I will end this heart too... It is the only way to keep the infection of this planet (at bay?)."
+- "Fordham Ishmael, pleading for all of you to join me. We cannot let them destroy the world."
+** Moria
+- A shadowy grey-haired face, from Martin's vision - Fordham Ishmael
+- "Subject C37", as slime bangs from within a crate in the background.
+- "I don't know what Kiki's done with it but it seems bent on destruction... showing some sign of intelligence"
+- "Mimicry is well-established, it responds well to electricity."
+- "All over the planet, they seem keen on consuming what they encounter. We found this creature impersonating by one of our scientists".
+- "Ishmael out"
+
+** URGENT: COMMS LOST
+Subject: URGENT - COMMS LOST
+Has anyone been able to make contact with Sol recently? Kuiper? Any colony for that matter? 
+
+
+Re: URGENT - COMMS LOST
+Duke says it’s some kind of Astrogation anomaly. Like the planet itself has moved? How the hell are we supposed to get home?
+
+Re: URGENT - COMMS LOST
+Patience. The planet will provide a way; we simply must find it.  Lothlorien will continue its studies of these ‘runes’ and I suggest other places do the same. We can sustain ourself until contact is established, and by then have something to present.
+
+** Stormborn
+- From Duke
+- Outpost that could handle the stormy weather 
+- "Link to the blue is established, but radio contact is limited"
+- "Jump gate should be established within a week"
+- "Dilation effects" - more time spent on the isle than passes outside
+- Hypothesis - blue refers to the blue moon, where the moon outpost is
+  
+*** Full text
+Duke here,
+
+Man has conquered the storm! Or, more precisely, the Stormborn Isle. We’ve built a new outpost over here that should be able to withstand the extreme (and extremely fickle) weather conditions. Radio contact is limited, but a link to the Blue is established, and a Jump Gate should be online within the week!
+
+Happy exploring and go science!!!
+
+(PS: Be careful about the time dialation!)
+
+** ASMO Down
+Subject: ASMO is down
+
+The Automated System for Multipurpose Operations has been taken down for maintenance yesterday, due to apparent malfunctions in the AI Core. Doctors Ishmael and Duke are working on it immediately; details are sparse but given the involvement of the Doctors, it’s likely serious. Stand by for further updates, and try using the primitive AILS algorithm for relevant searches.
+
