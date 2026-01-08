@@ -1,7 +1,7 @@
 ---
 title: "Interdepartmental Social: Mediocre Catering, Worse Speeches, and Even Worse Treatment of Prisoners"
 date: 2530-12-09T22:10:21-05:00
-draft: true
+draft: false
 ---
 NOTE: This note is private, since it includes stuff divulged in confidence, from people outside the monday group
 * TODO
