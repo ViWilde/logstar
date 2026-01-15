@@ -1,5 +1,5 @@
 ---
-title: "The Council Will Decide Your Fate"
+title: The Council Will Decide Your Fate
 date: 2531-01-07T21:39:05-05:00
 draft: false
 ---

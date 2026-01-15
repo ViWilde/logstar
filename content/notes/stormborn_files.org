@@ -1,5 +1,5 @@
 ---
-title: "Stormborn Files"
+title: Stormborn Files
 date: 2530-12-14T22:10:21-05:00
 draft: true
 ---

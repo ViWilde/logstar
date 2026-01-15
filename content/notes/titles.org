@@ -1,0 +1,31 @@
+---
+title: Session Names and Dates
+date: 2600-01-01
+draft: false
+---
+* Session Titles
+In cases where there are two titles, the first one is mine and the second is Ryan's
+- 2025-09-04 :: Nearing Serenity? (Not a session, a non-canon notes vignette)
+- 2025-10-02 :: Wide Awake
+- 2025-10-06 :: Terra Incognita
+- 2025-10-13 :: Capable Hands
+- 2025-10-20 :: Dead Men Tell Some Tales
+- 2025-10-27 :: Shadows on the Ship *OR* On The Hook
+- 2025-11-03 :: Welcome to the Jungle
+- 2025-11-13 :: First Blood
+- 2025-11-17 :: Colors & Conspiracies *OR* Dirt In Your Nails
+- 2025-11-24 :: In the Hall of the Mountain... Duke? *OR* A Connecticut Yankee In King Arthur's Court
+- 2025-12-01 :: Whales on a Plane *OR* Planes on a Whale
+- 2025-12-04 :: Of Course You Have Purple Eyes and Pronouns
+- 2025-12-09 :: Interdepartmental Social: Mediocre Catering, Worse Speeches, and Even Worse Treatment of Prisoners
+- 2025-12-14 :: Into The Mouth Of Hell Rode The Six Hundred
+- 2026-01-03 :: Get Thee to the Space-Hague *OR* Civilised Space
+- 2026-01-07 :: The Council Will Decide Your Fate *OR* A Prayer
+- 2026-01-09 :: Now This is Podracing
+- 2026-01-11 :: The Heart Of It All *OR* To The Bone
+- 2026-01-13 :: Goodnight, Moon(s) *OR* Homeward Bound
+
+* Non-Session Content
+- Stormborn Files :: A drop prepared (at the request of Consolus), containing summaries, commentary, and originals of the video files we uncovered at the Stormborn bunker on the island.
+- Transmission Revealing All :: A message prepared after our first proper meeting with Dr. Landon
+- A Student's Guide to Space Drugs :: Prepared by Dr. Consolus; A summary of stimulants and other drugs that were part of our medbay stores
