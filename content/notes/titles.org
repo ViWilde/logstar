@@ -9,22 +9,26 @@ In cases where there are two titles, the first one is mine and the second is Rya
 - 2025-10-02 :: Wide Awake
 - 2025-10-06 :: Terra Incognita
 - 2025-10-13 :: Capable Hands
-- 2025-10-20 :: Dead Men Tell Some Tales
+- 2025-10-20 :: Dead Men Tell Some Tales (Formerly: Lingual Lures, before I retconned it)
 - 2025-10-27 :: Shadows on the Ship *OR* On The Hook
 - 2025-11-03 :: Welcome to the Jungle
-- 2025-11-13 :: First Blood
+- 2025-11-13 :: First Blood *OR* Momentum
 - 2025-11-17 :: Colors & Conspiracies *OR* Dirt In Your Nails
 - 2025-11-24 :: In the Hall of the Mountain... Duke? *OR* A Connecticut Yankee In King Arthur's Court
-- 2025-12-01 :: Whales on a Plane *OR* Planes on a Whale
-- 2025-12-04 :: Of Course You Have Purple Eyes and Pronouns
+- 2025-12-01 :: Whales on a Plane *OR* Planes On A Whale
+- 2025-12-04 :: Of Course You Have Purple Eyes and Pronouns *OR* Brink Of Divorce
 - 2025-12-09 :: Interdepartmental Social: Mediocre Catering, Worse Speeches, and Even Worse Treatment of Prisoners
-- 2025-12-14 :: Into The Mouth Of Hell Rode The Six Hundred
+- 2025-12-14 :: Into The Mouth Of Hell Rode The Six Hundred *OR* Release The Stormborn Files
 - 2026-01-03 :: Get Thee to the Space-Hague *OR* Civilised Space
 - 2026-01-07 :: The Council Will Decide Your Fate *OR* A Prayer
 - 2026-01-09 :: Now This is Podracing
 - 2026-01-11 :: The Heart Of It All *OR* To The Bone
 - 2026-01-13 :: Goodnight, Moon(s) *OR* Homeward Bound
-
+* Favorites
+- *Get Thee to the Space-Hague* :: Session about getting Duke Landon to the Sol Authority, to face justice for his crimes against the handlings/slimes
+- *Of Course You Have Purple Eyes and Pronouns* :: When we met Ishmael/The Wanderer, we tried to ask them some questions, and one of the first was Esper asking for their pronouns and going down the list to see which ones got a nod
+- *Whales on a Plane* :: Rescuing Ellie, Corrin, Koa, Linnaea, and Heather from a skywhale chasing their ship
+- *On The Hook* :: Ryan's title, just very evocative of being on a haunted ship after having been tricked into coming aboard
 * Non-Session Content
 - Stormborn Files :: A drop prepared (at the request of Consolus), containing summaries, commentary, and originals of the video files we uncovered at the Stormborn bunker on the island.
 - Transmission Revealing All :: A message prepared after our first proper meeting with Dr. Landon
